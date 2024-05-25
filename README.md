@@ -1,5 +1,3 @@
-
-Copy code
 # QR Code Generator GUI
 
 A simple GUI application to generate QR codes using Python and Tkinter.
