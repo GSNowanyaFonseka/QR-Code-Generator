@@ -8,8 +8,8 @@ A simple GUI application to generate QR codes using Python and Tkinter.
 - qrcode
 - tkinter (usually included with Python)
 
-## Installation
+## Features
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/nemitha2005/QR-Code-Generator
+- User-friendly GUI for generating QR codes
+- Save QR codes as PNG files
+- Customizable QR code data input
