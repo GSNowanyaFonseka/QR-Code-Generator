@@ -1,4 +1,5 @@
 # QR Code Generator GUI
+created by Nemitha
 
 A simple GUI application to generate QR codes using Python and Tkinter.
 
