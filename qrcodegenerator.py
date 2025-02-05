@@ -17,7 +17,7 @@ def generate_qr_code():
         qr.add_data(data)
         qr.make(fit=True)
 
-        img = qr.make_image(fill_color="black", back_color="red")
+        img = qr.make_image(fill_color="blue", back_color="red")
 
         file_path = filedialog.asksaveasfilename(defaultextension=".png", filetypes=[("PNG files", "*.png")])
 
